@@ -1,0 +1,2 @@
+final:
+	gcc append.c create.c delete.c display.c heikin.c main.c update.c -o final
