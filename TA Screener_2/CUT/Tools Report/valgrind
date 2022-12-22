@@ -1,0 +1,9 @@
+==591==
+==591== HEAP SUMMARY:
+==591==     in use at exit: 0 bytes in 0 blocks
+==591==   total heap usage: 23 allocs, 23 frees, 8,312 bytes allocated
+==591==
+==591== All heap blocks were freed -- no leaks are possible
+==591==
+==591== For lists of detected and suppressed errors, rerun with: -s
+==591== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
