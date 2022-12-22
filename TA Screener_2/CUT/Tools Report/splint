@@ -1,12 +1,12 @@
-nikhila@nikhila-VirtualBox:~/Desktop/TASCreener1/src$ splint main.c
+nikhila@nikhila-VirtualBox:~/Desktop/TASCreener2/src$ splint main.c
 Splint 3.1.2 --- 20 Dec 2022
 
-main.c:2:18: Cannot find include file main.h on search path:
-                /home/nikhila/Desktop/TASCreener1/src;/usr/include/x86_64-linux-
+main.c:2:18: Cannot find header file main.h on search path:
+                /home/nikhila/Desktop/TASCreener2/src;/usr/header/x86_64-linux-
                 gnu;/usr/header
   Preprocessing error. (Use -preproc to inhibit warning)
 main.c:3:20: Cannot find include file struct.h on search path:
-                /home/nikhila/Desktop/TASCreener1/src;/usr/header/x86_64-linux-
+                /home/nikhila/Desktop/TASCreener2/src;/usr/header/x86_64-linux-
                 gnu;/usr/header
-Preprocessing error for file: /home/nikhila/Desktop/TASCreener1/src/main.c
+Preprocessing error for file: /home/nikhila/Desktop/TASCreener2/src/main.c
 *** Cannot continue.
